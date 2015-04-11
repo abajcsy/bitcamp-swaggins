@@ -8,8 +8,9 @@ results = {} #Mapping from input (url? jpg?) to [probability, label]
 labels = {}  #Mapping from label to [[inputs][probabilities]]
 
 #Sample data
-jpgs.append('hamburger.jpg')
-jpgs.append('lock.jpg')
+jpgs.append('../resources/hamburger.jpg')
+jpgs.append('../resources/lock.jpg')
+jpgs.append('../resources/fire.jpg')
 
 #Get base64 encoding, which allows an image to work as a URL
 def toBase64 (jpg):
