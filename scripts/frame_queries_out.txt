@@ -1,0 +1,170 @@
+Hello, Amelia Bateman
+Frame: 0
+Results[ ../resources/test_video/frame0.jpg ]:  [0.068204365670681, u'honeycomb']
+Labels[ honeycomb ]:  [['../resources/test_video/frame0.jpg'], [0.068204365670681]]
+Frame: 1
+Results[ ../resources/test_video/frame1.jpg ]:  [0.10886788368225098, u'street sign']
+Labels[ street sign ]:  [['../resources/test_video/frame1.jpg'], [0.10886788368225098]]
+Frame: 2
+Results[ ../resources/test_video/frame2.jpg ]:  [0.23892483115196228, u'bagel, beigel']
+Labels[ bagel, beigel ]:  [['../resources/test_video/frame2.jpg'], [0.23892483115196228]]
+Frame: 3
+Results[ ../resources/test_video/frame3.jpg ]:  [0.022300029173493385, u'rotisserie']
+Labels[ rotisserie ]:  [['../resources/test_video/frame3.jpg'], [0.022300029173493385]]
+Frame: 4
+Results[ ../resources/test_video/frame4.jpg ]:  [0.12260735780000687, u'passenger car, coach, carriage']
+Labels[ passenger car, coach, carriage ]:  [['../resources/test_video/frame4.jpg'], [0.12260735780000687]]
+Frame: 5
+Results[ ../resources/test_video/frame5.jpg ]:  [0.19643534719944, u'bell pepper']
+Labels[ bell pepper ]:  [['../resources/test_video/frame5.jpg'], [0.19643534719944]]
+Frame: 6
+Results[ ../resources/test_video/frame6.jpg ]:  [0.023920368403196335, u'mortar']
+Labels[ mortar ]:  [['../resources/test_video/frame6.jpg'], [0.023920368403196335]]
+Frame: 7
+Results[ ../resources/test_video/frame7.jpg ]:  [0.09813631325960159, u'koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus']
+Labels[ koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus ]:  [['../resources/test_video/frame7.jpg'], [0.09813631325960159]]
+Frame: 8
+Results[ ../resources/test_video/frame8.jpg ]:  [0.0639985203742981, u'web site, website, internet site, site']
+Labels[ web site, website, internet site, site ]:  [['../resources/test_video/frame8.jpg'], [0.0639985203742981]]
+Frame: 9
+Results[ ../resources/test_video/frame9.jpg ]:  [0.06727244704961777, u'web site, website, internet site, site']
+Labels[ web site, website, internet site, site ]:  [['../resources/test_video/frame8.jpg', '../resources/test_video/frame9.jpg'], [0.0639985203742981, 0.06727244704961777]]
+Frame: 10
+Results[ ../resources/test_video/frame10.jpg ]:  [0.06825927644968033, u'web site, website, internet site, site']
+Labels[ web site, website, internet site, site ]:  [['../resources/test_video/frame8.jpg', '../resources/test_video/frame9.jpg', '../resources/test_video/frame10.jpg'], [0.0639985203742981, 0.06727244704961777, 0.06825927644968033]]
+Frame: 11
+Results[ ../resources/test_video/frame11.jpg ]:  [0.036434512585401535, u'axolotl, mud puppy, Ambystoma mexicanum']
+Labels[ axolotl, mud puppy, Ambystoma mexicanum ]:  [['../resources/test_video/frame11.jpg'], [0.036434512585401535]]
+Frame: 12
+Results[ ../resources/test_video/frame12.jpg ]:  [0.04796027019619942, u'nipple']
+Labels[ nipple ]:  [['../resources/test_video/frame12.jpg'], [0.04796027019619942]]
+Frame: 13
+Results[ ../resources/test_video/frame13.jpg ]:  [0.02084338665008545, u'milk can']
+Labels[ milk can ]:  [['../resources/test_video/frame13.jpg'], [0.02084338665008545]]
+Frame: 14
+Results[ ../resources/test_video/frame14.jpg ]:  [0.0365293025970459, u'cleaver, meat cleaver, chopper']
+Labels[ cleaver, meat cleaver, chopper ]:  [['../resources/test_video/frame14.jpg'], [0.0365293025970459]]
+Frame: 15
+Results[ ../resources/test_video/frame15.jpg ]:  [0.026429662480950356, u'hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa']
+Labels[ hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa ]:  [['../resources/test_video/frame15.jpg'], [0.026429662480950356]]
+Frame: 16
+Results[ ../resources/test_video/frame16.jpg ]:  [0.07362686097621918, u'gyromitra']
+Labels[ gyromitra ]:  [['../resources/test_video/frame16.jpg'], [0.07362686097621918]]
+Frame: 17
+Results[ ../resources/test_video/frame17.jpg ]:  [0.035720307379961014, u'frying pan, frypan, skillet']
+Labels[ frying pan, frypan, skillet ]:  [['../resources/test_video/frame17.jpg'], [0.035720307379961014]]
+Frame: 18
+Results[ ../resources/test_video/frame18.jpg ]:  [0.07146601378917694, u'frying pan, frypan, skillet']
+Labels[ frying pan, frypan, skillet ]:  [['../resources/test_video/frame17.jpg', '../resources/test_video/frame18.jpg'], [0.035720307379961014, 0.07146601378917694]]
+Frame: 19
+Results[ ../resources/test_video/frame19.jpg ]:  [0.07173628360033035, u'frying pan, frypan, skillet']
+Labels[ frying pan, frypan, skillet ]:  [['../resources/test_video/frame17.jpg', '../resources/test_video/frame18.jpg', '../resources/test_video/frame19.jpg'], [0.035720307379961014, 0.07146601378917694, 0.07173628360033035]]
+Frame: 20
+Results[ ../resources/test_video/frame20.jpg ]:  [0.052603356540203094, u"potter's wheel"]
+Labels[ potter's wheel ]:  [['../resources/test_video/frame20.jpg'], [0.052603356540203094]]
+Frame: 21
+Results[ ../resources/test_video/frame21.jpg ]:  [0.1982950121164322, u'nematode, nematode worm, roundworm']
+Labels[ nematode, nematode worm, roundworm ]:  [['../resources/test_video/frame21.jpg'], [0.1982950121164322]]
+Frame: 22
+Results[ ../resources/test_video/frame22.jpg ]:  [0.05333750322461128, u'American lobster, Northern lobster, Maine lobster, Homarus americanus']
+Labels[ American lobster, Northern lobster, Maine lobster, Homarus americanus ]:  [['../resources/test_video/frame22.jpg'], [0.05333750322461128]]
+Frame: 23
+Results[ ../resources/test_video/frame23.jpg ]:  [0.09840375185012817, u'butternut squash']
+Labels[ butternut squash ]:  [['../resources/test_video/frame23.jpg'], [0.09840375185012817]]
+Frame: 24
+Results[ ../resources/test_video/frame24.jpg ]:  [0.0399014912545681, u'candle, taper, wax light']
+Labels[ candle, taper, wax light ]:  [['../resources/test_video/frame24.jpg'], [0.0399014912545681]]
+Frame: 25
+Results[ ../resources/test_video/frame25.jpg ]:  [0.09581213444471359, u'American lobster, Northern lobster, Maine lobster, Homarus americanus']
+Labels[ American lobster, Northern lobster, Maine lobster, Homarus americanus ]:  [['../resources/test_video/frame22.jpg', '../resources/test_video/frame25.jpg'], [0.05333750322461128, 0.09581213444471359]]
+Frame: 26
+Results[ ../resources/test_video/frame26.jpg ]:  [0.10684464126825333, u'head cabbage']
+Labels[ head cabbage ]:  [['../resources/test_video/frame26.jpg'], [0.10684464126825333]]
+Frame: 27
+Results[ ../resources/test_video/frame27.jpg ]:  [0.09251865744590759, u'head cabbage']
+Labels[ head cabbage ]:  [['../resources/test_video/frame26.jpg', '../resources/test_video/frame27.jpg'], [0.10684464126825333, 0.09251865744590759]]
+Frame: 28
+Results[ ../resources/test_video/frame28.jpg ]:  [0.022931694984436035, u'American lobster, Northern lobster, Maine lobster, Homarus americanus']
+Labels[ American lobster, Northern lobster, Maine lobster, Homarus americanus ]:  [['../resources/test_video/frame22.jpg', '../resources/test_video/frame25.jpg', '../resources/test_video/frame28.jpg'], [0.05333750322461128, 0.09581213444471359, 0.022931694984436035]]
+Frame: 29
+Results[ ../resources/test_video/frame29.jpg ]:  [0.024729665368795395, u'strawberry']
+Labels[ strawberry ]:  [['../resources/test_video/frame29.jpg'], [0.024729665368795395]]
+Frame: 30
+Results[ ../resources/test_video/frame30.jpg ]:  [0.00354131031781435, u'screen, CRT screen']
+Labels[ screen, CRT screen ]:  [['../resources/test_video/frame30.jpg'], [0.00354131031781435]]
+Frame: 31
+Results[ ../resources/test_video/frame31.jpg ]:  [0.003556090174242854, u'screen, CRT screen']
+Labels[ screen, CRT screen ]:  [['../resources/test_video/frame30.jpg', '../resources/test_video/frame31.jpg'], [0.00354131031781435, 0.003556090174242854]]
+Frame: 32
+Results[ ../resources/test_video/frame32.jpg ]:  [0.08500755578279495, u'hot pot, hotpot']
+Labels[ hot pot, hotpot ]:  [['../resources/test_video/frame32.jpg'], [0.08500755578279495]]
+Frame: 33
+Results[ ../resources/test_video/frame33.jpg ]:  [0.19115859270095825, u'hot pot, hotpot']
+Labels[ hot pot, hotpot ]:  [['../resources/test_video/frame32.jpg', '../resources/test_video/frame33.jpg'], [0.08500755578279495, 0.19115859270095825]]
+Frame: 34
+Results[ ../resources/test_video/frame34.jpg ]:  [0.029087616130709648, u'pedestal, plinth, footstall']
+Labels[ pedestal, plinth, footstall ]:  [['../resources/test_video/frame34.jpg'], [0.029087616130709648]]
+Frame: 35
+Results[ ../resources/test_video/frame35.jpg ]:  [0.0658097118139267, u'bagel, beigel']
+Labels[ bagel, beigel ]:  [['../resources/test_video/frame2.jpg', '../resources/test_video/frame35.jpg'], [0.23892483115196228, 0.0658097118139267]]
+Frame: 36
+Results[ ../resources/test_video/frame36.jpg ]:  [0.034194350242614746, u'eggnog']
+Labels[ eggnog ]:  [['../resources/test_video/frame36.jpg'], [0.034194350242614746]]
+Frame: 37
+Results[ ../resources/test_video/frame37.jpg ]:  [0.10838519781827927, u'potpie']
+Labels[ potpie ]:  [['../resources/test_video/frame37.jpg'], [0.10838519781827927]]
+Frame: 38
+Results[ ../resources/test_video/frame38.jpg ]:  [0.08678914606571198, u'potpie']
+Labels[ potpie ]:  [['../resources/test_video/frame37.jpg', '../resources/test_video/frame38.jpg'], [0.10838519781827927, 0.08678914606571198]]
+Frame: 39
+Results[ ../resources/test_video/frame39.jpg ]:  [0.09957421571016312, u'meat loaf, meatloaf']
+Labels[ meat loaf, meatloaf ]:  [['../resources/test_video/frame39.jpg'], [0.09957421571016312]]
+Frame: 40
+Results[ ../resources/test_video/frame40.jpg ]:  [0.09679149091243744, u'meat loaf, meatloaf']
+Labels[ meat loaf, meatloaf ]:  [['../resources/test_video/frame39.jpg', '../resources/test_video/frame40.jpg'], [0.09957421571016312, 0.09679149091243744]]
+Frame: 41
+Results[ ../resources/test_video/frame41.jpg ]:  [0.0737469494342804, u'meat loaf, meatloaf']
+Labels[ meat loaf, meatloaf ]:  [['../resources/test_video/frame39.jpg', '../resources/test_video/frame40.jpg', '../resources/test_video/frame41.jpg'], [0.09957421571016312, 0.09679149091243744, 0.0737469494342804]]
+Frame: 42
+Results[ ../resources/test_video/frame42.jpg ]:  [0.03744293004274368, u'mortar']
+Labels[ mortar ]:  [['../resources/test_video/frame6.jpg', '../resources/test_video/frame42.jpg'], [0.023920368403196335, 0.03744293004274368]]
+Frame: 43
+Results[ ../resources/test_video/frame43.jpg ]:  [0.08955417573451996, u'hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa']
+Labels[ hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa ]:  [['../resources/test_video/frame15.jpg', '../resources/test_video/frame43.jpg'], [0.026429662480950356, 0.08955417573451996]]
+Frame: 44
+Results[ ../resources/test_video/frame44.jpg ]:  [0.042015522718429565, u'plate']
+Labels[ plate ]:  [['../resources/test_video/frame44.jpg'], [0.042015522718429565]]
+Frame: 45
+Results[ ../resources/test_video/frame45.jpg ]:  [0.03463392332196236, u'plate']
+Labels[ plate ]:  [['../resources/test_video/frame44.jpg', '../resources/test_video/frame45.jpg'], [0.042015522718429565, 0.03463392332196236]]
+Frame: 46
+Results[ ../resources/test_video/frame46.jpg ]:  [0.08274496346712112, u'consomme']
+Labels[ consomme ]:  [['../resources/test_video/frame46.jpg'], [0.08274496346712112]]
+Frame: 47
+Results[ ../resources/test_video/frame47.jpg ]:  [0.051569484174251556, u'cheeseburger']
+Labels[ cheeseburger ]:  [['../resources/test_video/frame47.jpg'], [0.051569484174251556]]
+Frame: 48
+Results[ ../resources/test_video/frame48.jpg ]:  [0.1377018690109253, u'cheeseburger']
+Labels[ cheeseburger ]:  [['../resources/test_video/frame47.jpg', '../resources/test_video/frame48.jpg'], [0.051569484174251556, 0.1377018690109253]]
+Frame: 49
+Results[ ../resources/test_video/frame49.jpg ]:  [0.07916021347045898, u'carbonara']
+Labels[ carbonara ]:  [['../resources/test_video/frame49.jpg'], [0.07916021347045898]]
+Frame: 50
+Results[ ../resources/test_video/frame50.jpg ]:  [0.0072259153239429, u'fire screen, fireguard']
+Labels[ fire screen, fireguard ]:  [['../resources/test_video/frame50.jpg'], [0.0072259153239429]]
+Frame: 51
+Results[ ../resources/test_video/frame51.jpg ]:  [0.06507982313632965, u"potter's wheel"]
+Labels[ potter's wheel ]:  [['../resources/test_video/frame20.jpg', '../resources/test_video/frame51.jpg'], [0.052603356540203094, 0.06507982313632965]]
+Frame: 52
+Results[ ../resources/test_video/frame52.jpg ]:  [0.004203021991997957, u'web site, website, internet site, site']
+Labels[ web site, website, internet site, site ]:  [['../resources/test_video/frame8.jpg', '../resources/test_video/frame9.jpg', '../resources/test_video/frame10.jpg', '../resources/test_video/frame52.jpg'], [0.0639985203742981, 0.06727244704961777, 0.06825927644968033, 0.004203021991997957]]
+Frame: 53
+Results[ ../resources/test_video/frame53.jpg ]:  [0.023760223761200905, u"academic gown, academic robe, judge's robe"]
+Labels[ academic gown, academic robe, judge's robe ]:  [['../resources/test_video/frame53.jpg'], [0.023760223761200905]]
+Frame: 54
+Results[ ../resources/test_video/frame54.jpg ]:  [0.02001352794468403, u'nematode, nematode worm, roundworm']
+Labels[ nematode, nematode worm, roundworm ]:  [['../resources/test_video/frame21.jpg', '../resources/test_video/frame54.jpg'], [0.1982950121164322, 0.02001352794468403]]
+Frame: 55
+Results[ ../resources/test_video/frame55.jpg ]:  [0.12478426098823547, u'street sign']
+Labels[ street sign ]:  [['../resources/test_video/frame1.jpg', '../resources/test_video/frame55.jpg'], [0.10886788368225098, 0.12478426098823547]]
+
